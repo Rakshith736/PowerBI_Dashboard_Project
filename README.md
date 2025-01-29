@@ -1,5 +1,6 @@
 # PowerBI_Dashboard_Project
 Overview
+
 This project is an interactive Power BI dashboard designed to analyze and visualize Sales Data. It includes dynamic charts, key metrics, and slicers for better insights.
 
 Features
